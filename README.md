@@ -7,10 +7,14 @@ It was developed in 3 phases. In each phase I have implemented different concept
 Phase 1:
 In this phase, I have implemented simple multiple clients - server application which support Unicasting, Multicasting and Broadcasting of the messages based on different options available on the UI.
 
-Code Structure:
+ Code Structure:
+
 Each phase contains 3 files. 
+
 ServerView.java - It contains code for server. This class must be run first.
+
 loginClient.java - It contains code for client's login and run after the server has been started. It can be run as many number of times depending upon number of clients required.
+
 ClientView.java - It contains code for the client.
 
 
