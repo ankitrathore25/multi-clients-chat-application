@@ -7,6 +7,7 @@ It was developed in 3 phases. In each phase I have implemented different concept
 Phase 1:
 In this phase, I have implemented simple multiple clients - server application which support Unicasting, Multicasting and Broadcasting of the messages based on different options available on the UI.
 - Demo https://www.youtube.com/watch?v=tf5fUAXckGg
+ 
  Code Structure:
 
 Each phase contains 3 files. 
