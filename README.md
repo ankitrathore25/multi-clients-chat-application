@@ -30,7 +30,7 @@ To implement offline client messaging. I am sending all the messages to the acti
 `Assumption` : when a client comes online again then it will first check the message using 'check messages' button before sending or receiving any message.
 
 Phase 3:
-In this phase, I have implemented `vector clock` concept. Once clients connect to the server and starting the clock after clicking the start button on their UI, will be able to send vector clock as message to the randomly chosen user
+In this phase, I have implemented `vector clock` concept. Once clients connect to the server and starting the clock after clicking the start button on their UI, will be able to send vector clock as message to the randomly chosen user.
 
 
 
