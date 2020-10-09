@@ -1,4 +1,5 @@
 # multi-clients-chat-application
+# Demo https://www.youtube.com/watch?v=tf5fUAXckGg
 Multiple clients-server chat application built in java swing. It supports message delivery to the offline clients and vector clock implementation
 
 This project was based on my learning in course CSE-5306 Distributed System.
@@ -6,7 +7,6 @@ It was developed in 3 phases. In each phase I have implemented different concept
 
 Phase 1:
 In this phase, I have implemented simple multiple clients - server application which support Unicasting, Multicasting and Broadcasting of the messages based on different options available on the UI.
-- Demo https://www.youtube.com/watch?v=tf5fUAXckGg
  
  Code Structure:
 
