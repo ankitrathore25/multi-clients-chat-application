@@ -1,9 +1,5 @@
 package phase1;
-/*
- *Author: Ankit Rathore
- *Id:     1001767618
- *netId:  axr7618 
- */
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.DataInputStream;
