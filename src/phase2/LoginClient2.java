@@ -1,9 +1,5 @@
 package phase2;
-/*
- *Author: Ankit Rathore
- *Id:     1001767618
- *netId:  axr7618 
- */
+
 import java.awt.EventQueue;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
